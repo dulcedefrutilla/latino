@@ -25,9 +25,9 @@ http://162.246.20.30/mastervip/lista.php?id=6570
 http://162.246.20.30/mastervip/lista.php?id=6571
 #EXTINF:-1,FOX Sports 1 HD (AR)
 http://162.246.20.30/mastervip/lista.php?id=6573
-#EXTINF:-1,FOX Sports 1 HD (AR)
+#EXTINF:-1,FOX Sports 1  HD (AR)
 http://162.246.20.30/mastervip/lista.php?id=5213
-#EXTINF:-1,FOX Sports 1 HD (AR)
+#EXTINF:-1,FOX Sports 1  HD (AR)
 http://162.246.20.30/mastervip/lista.php?id=6556
 #EXTINF:-1,FOX Sport 2 HD (AR)
 http://162.246.20.30/mastervip/lista.php?id=6557
@@ -41,7 +41,6 @@ http://162.246.20.30/mastervip/lista.php?id=5215
 http://162.246.20.30/mastervip/lista.php?id=6574
 #EXTINF:-1,FOX Sport 3 HD. (AR)
 http://162.246.20.30/mastervip/lista.php?id=6558
-
 #EXTINF:-1,SPACE ARGENTINA HD
 http://162.246.20.30/mastervip/lista.php?id=6567
 #EXTINF:-1,Telefe FHD
@@ -82,7 +81,7 @@ http://162.246.20.30/mastervip/lista.php?id=5380
 http://162.246.20.30/mastervip/lista.php?id=5377
 #EXTINF:-1,AZTECA GUATEMALA HD
 http://162.246.20.30/mastervip/lista.php?id=6507
-#EXTINF:-1,Azteca Gua
+#EXTINF:-1,Azteca Gua 
 http://162.246.20.30/mastervip/lista.php?id=6504
 #EXTINF:-1,Antigua (GT)
 http://162.246.20.30/mastervip/lista.php?id=6503
@@ -118,7 +117,7 @@ http://162.246.20.30/mastervip/lista.php?id=5487
 http://162.246.20.30/mastervip/lista.php?id=5488
 #EXTINF:-1,28 COL-ESPN 7 HD
 http://162.246.20.30/mastervip/lista.php?id=5489
-#EXTINF:-1,23 COL-ESPN 5 HD
+#EXTINF:-1,23  COL-ESPN 5 HD
 http://162.246.20.30/mastervip/lista.php?id=5490
 #EXTINF:-1,39 AMC
 http://162.246.20.30/mastervip/lista.php?id=5491
@@ -126,7 +125,7 @@ http://162.246.20.30/mastervip/lista.php?id=5491
 http://162.246.20.30/mastervip/lista.php?id=5492
 #EXTINF:-1,45 TELEAMAZONAS ECUADOR HD
 http://162.246.20.30/mastervip/lista.php?id=5493
-#EXTINF:-1,24 HORAS HD CHILE
+#EXTINF:-1,24 HORAS HD  CHILE
 http://162.246.20.30/mastervip/lista.php?id=5494
 #EXTINF:-1,49 NICK JR HD
 http://162.246.20.30/mastervip/lista.php?id=5495
@@ -138,7 +137,7 @@ http://162.246.20.30/mastervip/lista.php?id=5497
 http://162.246.20.30/mastervip/lista.php?id=5498
 #EXTINF:-1,63 PX SPORTS HD
 http://162.246.20.30/mastervip/lista.php?id=5499
-#EXTINF:-1,65 TV CORTOS HD
+#EXTINF:-1,65 TV CORTOS  HD
 http://162.246.20.30/mastervip/lista.php?id=5500
 #EXTINF:-1,Tigo sports costa rica
 http://162.246.20.30/mastervip/lista.php?id=5501
@@ -188,8 +187,6 @@ http://162.246.20.30/mastervip/lista.php?id=5522
 http://162.246.20.30/mastervip/lista.php?id=5523
 #EXTINF:-1,82 GOLDEN EDGEN SK
 http://162.246.20.30/mastervip/lista.php?id=5524
-
-
 #EXTINF:-1,22 TNT SERIES HD COLOMBIA
 http://162.246.20.30/mastervip/lista.php?id=5525
 #EXTINF:-1,29 BABY FIRTS HD
@@ -234,7 +231,7 @@ http://162.246.20.30/mastervip/lista.php?id=5544
 http://162.246.20.30/mastervip/lista.php?id=5545
 #EXTINF:-1,60 DIRECTV SPORTS FIGHT HD
 http://162.246.20.30/mastervip/lista.php?id=5546
-#EXTINF:-1,62 WIN SPORTS PREMIUM COL
+#EXTINF:-1,62 WIN SPORTS PREMIUM  COL
 http://162.246.20.30/mastervip/lista.php?id=5547
 #EXTINF:-1,68 WinSports HD
 http://162.246.20.30/mastervip/lista.php?id=5548
@@ -356,11 +353,9 @@ http://162.246.20.30/mastervip/lista.php?id=5606
 http://162.246.20.30/mastervip/lista.php?id=5607
 #EXTINF:-1,Vamos por M+
 http://162.246.20.30/mastervip/lista.php?id=5608
-
-
 #EXTINF:-1,Gol TV (EC) (SOLO EVENTOS)
 http://162.246.20.30/mastervip/lista.php?id=5385
-#EXTINF:-1,Ecuavisa Gquil HD (EC)
+#EXTINF:-1,Ecuavisa Gquil HD (EC) 
 http://162.246.20.30/mastervip/lista.php?id=5386
 #EXTINF:-1,Teleamazonas HD (EC)
 http://162.246.20.30/mastervip/lista.php?id=5387
@@ -404,7 +399,7 @@ http://162.246.20.30/mastervip/lista.php?id=5405
 http://162.246.20.30/mastervip/lista.php?id=5406
 #EXTINF:-1,Oromar TV FHD
 http://162.246.20.30/mastervip/lista.php?id=5407
-#EXTINF:-1,ESPN Extra
+#EXTINF:-1,ESPN Extra 
 http://162.246.20.30/mastervip/lista.php?id=5408
 #EXTINF:-1,NexTV (PA)
 http://162.246.20.30/mastervip/lista.php?id=5452
@@ -494,7 +489,7 @@ http://162.246.20.30/mastervip/lista.php?id=5423
 http://162.246.20.30/mastervip/lista.php?id=5424
 #EXTINF:-1,CANAL 6 (HN)
 http://162.246.20.30/mastervip/lista.php?id=5425
-#EXTINF:-1,Canal 5 (HN)
+#EXTINF:-1,Canal 5  (HN)
 http://162.246.20.30/mastervip/lista.php?id=5426
 #EXTINF:-1,Canal 7 (HN)
 http://162.246.20.30/mastervip/lista.php?id=5427
@@ -544,3 +539,303 @@ http://162.246.20.30/mastervip/lista.php?id=5352
 http://162.246.20.30/mastervip/lista.php?id=5355
 #EXTINF:-1,CBTV
 http://162.246.20.30/mastervip/lista.php?id=5372
+#EXTINF:-1,EXTREMA TV
+http://162.246.20.30/mastervip/lista.php?id=5357
+#EXTINF:-1,Repretel 4 (COSTA RICA)
+http://162.246.20.30/mastervip/lista.php?id=5369
+#EXTINF:-1,Repretel 6 HD (CR)
+http://162.246.20.30/mastervip/lista.php?id=5346
+#EXTINF:-1,Repretel 11 SD (CR)
+http://162.246.20.30/mastervip/lista.php?id=5348
+#EXTINF:-1,Teletica 7 HD (L) (COSTA RICA)
+http://162.246.20.30/mastervip/lista.php?id=5370
+#EXTINF:-1,Teletica 7 HD
+http://162.246.20.30/mastervip/lista.php?id=5375
+#EXTINF:-1,Teletica 7 Encoder
+http://162.246.20.30/mastervip/lista.php?id=5374
+#EXTINF:-1,CANAL UCR
+http://162.246.20.30/mastervip/lista.php?id=5371
+#EXTINF:-1,Cable Sur Canal 5
+http://162.246.20.30/mastervip/lista.php?id=5361
+#EXTINF:-1,Multimedios
+http://162.246.20.30/mastervip/lista.php?id=5358
+#EXTINF:-1,FUTV HD (CR)
+http://162.246.20.30/mastervip/lista.php?id=5345
+#EXTINF:-1,FUTV FHD
+http://162.246.20.30/mastervip/lista.php?id=6553
+#EXTINF:-1,+television
+http://162.246.20.30/mastervip/lista.php?id=5360
+#EXTINF:-1,Retro Channel
+http://162.246.20.30/mastervip/lista.php?id=5362
+#EXTINF:-1,RetroPlus 2
+http://162.246.20.30/mastervip/lista.php?id=5363
+#EXTINF:-1,Retroplus Movies
+http://162.246.20.30/mastervip/lista.php?id=5364
+#EXTINF:-1,TELESISTEMA
+http://162.246.20.30/mastervip/lista.php?id=5356
+#EXTINF:-1,Tele Uno
+http://162.246.20.30/mastervip/lista.php?id=5365
+#EXTINF:-1,TD +
+http://162.246.20.30/mastervip/lista.php?id=5353
+#EXTINF:-1,TD + 2 HD
+http://162.246.20.30/mastervip/lista.php?id=5354
+#EXTINF:-1,Tigo Sports (CR).
+http://162.246.20.30/mastervip/lista.php?id=5373
+#EXTINF:-1,Tigo Sports HD
+http://162.246.20.30/mastervip/lista.php?id=5359
+#EXTINF:-1,TeleRed
+http://162.246.20.30/mastervip/lista.php?id=5366
+#EXTINF:-1,Telsur
+http://162.246.20.30/mastervip/lista.php?id=5367
+#EXTINF:-1,Urbano TV
+http://162.246.20.30/mastervip/lista.php?id=5368
+#EXTINF:-1,Univision Col
+http://162.246.20.30/mastervip/lista.php?id=6493
+#EXTINF:-1,.TELEANTIOQUIA HQ
+http://162.246.20.30/mastervip/lista.php?id=6494
+#EXTINF:-1,22 TNT SERIES HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5246
+#EXTINF:-1,29 BABY FIRTS HD
+http://162.246.20.30/mastervip/lista.php?id=5247
+#EXTINF:-1,30 SEÑAL COLOMBIA HD
+http://162.246.20.30/mastervip/lista.php?id=5248
+#EXTINF:-1,32 CANAL 1 HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5249
+#EXTINF:-1,33 CARACOL HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5250
+#EXTINF:-1,34 REDMAS HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5251
+#EXTINF:-1,35 RCN HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5252
+#EXTINF:-1,23  COL-ESPN 5 HD
+http://162.246.20.30/mastervip/lista.php?id=5253
+#EXTINF:-1,37 DISNEY CHANELL HD
+http://162.246.20.30/mastervip/lista.php?id=5254
+#EXTINF:-1,38 ESPN 3 HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5255
+#EXTINF:-1,40 UNIVERSAL REALITY HD
+http://162.246.20.30/mastervip/lista.php?id=5256
+#EXTINF:-1,41 UNIVERSAL CINEMA HD
+http://162.246.20.30/mastervip/lista.php?id=5257
+#EXTINF:-1,42 UNIVERSAL PREMIER HD
+http://162.246.20.30/mastervip/lista.php?id=5258
+#EXTINF:-1,43 ESPN PREMIUM HD
+http://162.246.20.30/mastervip/lista.php?id=5259
+#EXTINF:-1,47 CITY TV SD
+http://162.246.20.30/mastervip/lista.php?id=5260
+#EXTINF:-1,48 RCN NOVELAS SD
+http://162.246.20.30/mastervip/lista.php?id=5261
+#EXTINF:-1,152 TELEANTIOQUIA HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5262
+#EXTINF:-1,53 TELEPACIFICO HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5263
+#EXTINF:-1,54 TELECARIBE HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5264
+#EXTINF:-1,57 DIRECTV SPORTS COLOMBIA HD
+http://162.246.20.30/mastervip/lista.php?id=5265
+#EXTINF:-1,58 DIRECTV SPORTS2 HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5266
+#EXTINF:-1,59 DIRECTV SPORTS+ HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5267
+#EXTINF:-1,60 DIRECTV SPORTS FIGHT HD
+http://162.246.20.30/mastervip/lista.php?id=5268
+#EXTINF:-1,62 WIN SPORTS PREMIUM  COL
+http://162.246.20.30/mastervip/lista.php?id=5269
+#EXTINF:-1,68 WinSports HD
+http://162.246.20.30/mastervip/lista.php?id=5270
+#EXTINF:-1,ESPN HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5271
+#EXTINF:-1,26 DIRECTV MOTOR HD
+http://162.246.20.30/mastervip/lista.php?id=5272
+#EXTINF:-1,TNT COLOMBIA HD
+http://162.246.20.30/mastervip/lista.php?id=5273
+#EXTINF:-1,22 COL-TNT SERIES HD COLOMBIA
+http://162.246.20.30/mastervip/lista.php?id=5274
+#EXTINF:-1,64 COL ESPN 2 HD
+http://162.246.20.30/mastervip/lista.php?id=5275
+#EXTINF:-1,Caracol FHD (COL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5276
+#EXTINF:-1,Teleantioquia HD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5277
+#EXTINF:-1,Canal Trece FHD (COL)
+http://162.246.20.30/mastervip/lista.php?id=5278
+#EXTINF:-1,Cosmovision FHD (COL)
+http://162.246.20.30/mastervip/lista.php?id=5279
+#EXTINF:-1,CTV Barranquilla (COL)
+http://162.246.20.30/mastervip/lista.php?id=5280
+#EXTINF:-1,Win Sports FHD (COL)
+http://162.246.20.30/mastervip/lista.php?id=5281
+#EXTINF:-1,Win Sports SD  (COL)
+http://162.246.20.30/mastervip/lista.php?id=5282
+#EXTINF:-1,Win Sports HD HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5283
+#EXTINF:-1,RCN Novelas HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5284
+#EXTINF:-1,RCN Nuestra Tele (COL)
+http://162.246.20.30/mastervip/lista.php?id=5285
+#EXTINF:-1,Teleantioquia HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5286
+#EXTINF:-1,Cablenoticias FHD (COL)
+http://162.246.20.30/mastervip/lista.php?id=5287
+#EXTINF:-1,Teleislas HD (COL)
+http://162.246.20.30/mastervip/lista.php?id=5288
+#EXTINF:-1,Vallenato Internacional (COL)
+http://162.246.20.30/mastervip/lista.php?id=5289
+#EXTINF:-1,RCN HD (COL)
+http://162.246.20.30/mastervip/lista.php?id=5290
+#EXTINF:-1,Directv Sport (COL)
+http://162.246.20.30/mastervip/lista.php?id=5291
+#EXTINF:-1,DIRECTV SPORTS+ (COL)
+http://162.246.20.30/mastervip/lista.php?id=5292
+#EXTINF:-1,DIRECTV SPORTS2 HD (COL)
+http://162.246.20.30/mastervip/lista.php?id=5293
+#EXTINF:-1,City TV HEVC
+http://162.246.20.30/mastervip/lista.php?id=5294
+#EXTINF:-1,DHE HD HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5295
+#EXTINF:-1,Universal Reality HD HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5296
+#EXTINF:-1,Universal Cinema HD HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5297
+#EXTINF:-1,Universal Premiere HD HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5298
+#EXTINF:-1,ESPN 4 HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5299
+#EXTINF:-1,ESPN 3 HD HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5300
+#EXTINF:-1,ESPN HD HEVC (COL)
+http://162.246.20.30/mastervip/lista.php?id=5301
+#EXTINF:-1,Caracol SD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5302
+#EXTINF:-1,Cali t op2
+http://162.246.20.30/mastervip/lista.php?id=5303
+#EXTINF:-1,Tele Medellin HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5304
+#EXTINF:-1,Telecaribe HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5305
+#EXTINF:-1,RCN 2 HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5306
+#EXTINF:-1,RCN HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5307
+#EXTINF:-1,*RCN Nuestra Tele HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5308
+#EXTINF:-1,Cable Noticias HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5309
+#EXTINF:-1,SPACE HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5310
+#EXTINF:-1,Tigo Sports 1 HD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5311
+#EXTINF:-1,Win Sports HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5312
+#EXTINF:-1,Win Sports + HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5313
+#EXTINF:-1,Señal Colombia (CO)
+http://162.246.20.30/mastervip/lista.php?id=5314
+#EXTINF:-1,ESPN 2 HD
+http://162.246.20.30/mastervip/lista.php?id=5315
+#EXTINF:-1,ESPN 1 HD Encoder
+http://162.246.20.30/mastervip/lista.php?id=5316
+#EXTINF:-1,Cinecanal HD (CO) (P)
+http://162.246.20.30/mastervip/lista.php?id=5317
+#EXTINF:-1,Cartoon Network FHD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5318
+#EXTINF:-1,Canal 1 HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5319
+#EXTINF:-1,El Trece HD (CO).
+http://162.246.20.30/mastervip/lista.php?id=5320
+#EXTINF:-1,NTN24 HD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5321
+#EXTINF:-1,Canal Capital HD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5322
+#EXTINF:-1,Smithsonian Channel HD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5323
+#EXTINF:-1,Señal Colombia HD Encoder
+http://162.246.20.30/mastervip/lista.php?id=5324
+#EXTINF:-1,TV Agro HD
+http://162.246.20.30/mastervip/lista.php?id=5325
+#EXTINF:-1,Pasion HD (@)
+http://162.246.20.30/mastervip/lista.php?id=5326
+#EXTINF:-1,Cosmovision (CO)
+http://162.246.20.30/mastervip/lista.php?id=5327
+#EXTINF:-1,Caracol Internacional HD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5328
+#EXTINF:-1, El Tiempo (CO)
+http://162.246.20.30/mastervip/lista.php?id=5329
+#EXTINF:-1,Teleantioquia (CO)
+http://162.246.20.30/mastervip/lista.php?id=5330
+#EXTINF:-1,City TV SD Encoder
+http://162.246.20.30/mastervip/lista.php?id=5331
+#EXTINF:-1,Telecafe SD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5332
+#EXTINF:-1,HBO Family (SD CO)
+http://162.246.20.30/mastervip/lista.php?id=5333
+#EXTINF:-1,AMC HD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5334
+#EXTINF:-1,History 2 FHD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5335
+#EXTINF:-1,Canal TRO (CO)
+http://162.246.20.30/mastervip/lista.php?id=5336
+#EXTINF:-1,Telepacifico (CO)
+http://162.246.20.30/mastervip/lista.php?id=5337
+#EXTINF:-1,FOX Sports HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5338
+#EXTINF:-1,FOX Sports 2 HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5339
+#EXTINF:-1,FOX Sports 3 HD (CO) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5340
+#EXTINF:-1,Golf Channel FHD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5341
+#EXTINF:-1,Golden Premier FHD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5342
+#EXTINF:-1,Discovery Turbo FHD (CO)
+http://162.246.20.30/mastervip/lista.php?id=5343
+#EXTINF:-1,Win Sports + HD (CO) Op.2
+http://162.246.20.30/mastervip/lista.php?id=5344
+#EXTINF:-1,TNT Sports 2 HD (CL) Encoder.
+http://162.246.20.30/mastervip/lista.php?id=5222
+#EXTINF:-1,CDO Premium SD (CL)
+http://162.246.20.30/mastervip/lista.php?id=5223
+#EXTINF:-1,CDO Basico (CL)
+http://162.246.20.30/mastervip/lista.php?id=5224
+#EXTINF:-1,CDO Premium HD (CL)
+http://162.246.20.30/mastervip/lista.php?id=5225
+#EXTINF:-1,Mega HD (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5226
+#EXTINF:-1,Zona Latina SD (CL)
+http://162.246.20.30/mastervip/lista.php?id=5227
+#EXTINF:-1,Chilevision HD Encoder (CL)
+http://162.246.20.30/mastervip/lista.php?id=5228
+#EXTINF:-1,24 Horas HD Encoder (CL)
+http://162.246.20.30/mastervip/lista.php?id=5229
+#EXTINF:-1,TVN HD (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5230
+#EXTINF:-1,La Red HD Encoder (CL)
+http://162.246.20.30/mastervip/lista.php?id=5231
+#EXTINF:-1,Canal 13C SD (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5232
+#EXTINF:-1,TV Chile HD (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5233
+#EXTINF:-1,CNN Chile HD Encoder (CL)
+http://162.246.20.30/mastervip/lista.php?id=5234
+#EXTINF:-1,Teletrak HD Encoder (CL)
+http://162.246.20.30/mastervip/lista.php?id=5235
+#EXTINF:-1,FOX Sports HD (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5236
+#EXTINF:-1,FOX Sports 2 HD (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5237
+#EXTINF:-1,ESPN HD (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5238
+#EXTINF:-1,TV + HD Encoder (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5239
+#EXTINF:-1,TNT Sports 3 HD (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5240
+#EXTINF:-1,FOX Sports 1 HD Encoder
+http://162.246.20.30/mastervip/lista.php?id=5241
+#EXTINF:-1,FOX Sports 2 HD Encoder
+http://162.246.20.30/mastervip/lista.php?id=5242
+#EXTINF:-1,FOX Sports 3 HD Encoder
+http://162.246.20.30/mastervip/lista.php?id=5243
+#EXTINF:-1,ESPN 2 HD (CL) Encoder
+http://162.246.20.30/mastervip/lista.php?id=5244
+#EXTINF:-1,Teletrak HD CH
+http://162.246.20.30/mastervip/lista.php?id=5245
