@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, TV BAR 🇪🇸
-https://5.44.253.146:2096/live/163333/554432133/305875.ts
+#EXTINF:-1, D LIGA 🇪🇸
+https://5.44.253.146:2096/live/163333/554432133/17508.ts
 
-#EXTINF:-1, TV BAR 🇪🇸
-https://65.108.40.239:2096/live/blickkk/XUbxsnSbxbQ2/871.ts
+#EXTINF:-1, D LIGA 🇪🇸
+https://5.44.253.146:2096/live/163333/554432133/17507.ts
+
+#EXTINF:-1, Bien sport 3 🇶🇦
+http://45.139.122.148:8000/play/a006
 
 #EXTINF:-1, M LIGA 🇪🇸
 https://5.44.253.146:2096/live/163333/554432133/107584.ts
@@ -12,26 +15,26 @@ https://5.44.253.146:2096/live/163333/554432133/107584.ts
 #EXTINF:-1, M LIGA 🇪🇸
 https://5.44.253.146:2096/live/163333/554432133/309742.ts
 
-#EXTINF:-1, M LIGA 🇪🇸
-https://65.108.40.239:2096/live/blickkk/XUbxsnSbxbQ2/818.ts
+#EXTINF:-1, ESPN DEPORTES 🇺🇸
+https://elkiosko@hastycast.live/hls/377qj1h890g40.m3u8?st=Q-zao1ljlyrVqr6N8Y1bVE-Np67eIKqX-IAis5SBbuE&e=1735945042
 
-#EXTINF:-1, D LIGA 🇪🇸
-https://5.44.253.146:2096/live/163333/554432133/17508.ts
-
-#EXTINF:-1, D LIGA 🇪🇸
-https://5.44.253.146:2096/live/163333/554432133/17507.ts
-
-#EXTINF:-1, D LIGA 🇪🇸
-https://65.108.40.239:2096/live/blickkk/XUbxsnSbxbQ2/838.ts
+#EXTINF:-1, ESPN DEPORTES 🇺🇸
+https://hastycast.live/hls/377qj1h890g40.m3u8
 
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
-http://5.troya.info:34000/ch2098/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B0poFvFWj7a8qV2HpTSisjDsU6EDIBiTdBZNPARJM6ie
+http://176.65.146.108:8022/play/a06r/index.m3u8
+
+#EXTINF:-1, TV BAR 🇪🇸
+https://p@www.vavoo.to/play/1980907224/index.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://cma.footballii.ir/hls2/b1.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+http://45.139.122.148:8000/play/a004
 
 #EXTINF:-1, S SPORT 1 🇹🇷
 http://52-0001.xyz:80/erkan2954/290996491/41161
@@ -676,6 +679,9 @@ http://ott-cdn.ucom.am/s4/04.m3u8
 http://ott-cdn.ucom.am/s83/03.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
+https://live12.ir/sp/hls.html?link=https://wo.cma.footballii.ir/hls2/persiana.m3u8&title=persiana
+
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
 https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1, PERSIANA SPORT 🇮🇷
@@ -704,6 +710,12 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 #EXTINF:-1, RTA SPORT 🇸🇦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1, MBC Masr 2 🇸🇦
+https://shls-masr2-enc.edgenextcdn.net:443/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF:-1, MBC Masr 2 🇸🇦
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_6.m3u8
 
 #EXTINF:-1, Sport A 🇨🇳
 http://37.27.111.214:8080/live/13/hls.m3u8
@@ -960,7 +972,6 @@ http://5.troya.info:34000/ch334/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B
 
 #EXTINF:-1, TNT SPORT 3 🇬🇧
 http://5.troya.info:34000/ch233/mono.m3u8?token=rl_sandro1.zWR4lWXWfZJXFFYoSXa3B4U4gfFvH_E8AtxIpSdu4ugVVlOotYR4Q1u5Qg_2rGEq
-
 
 
 
